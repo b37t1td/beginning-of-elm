@@ -6,8 +6,9 @@
 
 
 #### 1. Basics
-  * Simple increment/decrement counter value application "[counter application](./Basics/IncDec)"
 
+  * [Simple increment/decrement](./Basics/IncDec) *counter value application*
+  * [Simple Todo List](./Basics/SimpleTodo) *basic todo list Create/Remove*
 
 #### 2. CRUD
 
