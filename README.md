@@ -7,8 +7,8 @@
 
 #### 1. Basics
 
-  * [Simple increment/decrement](./Basics/IncDec) *counter value application*
-  * [Simple Todo List](./Basics/SimpleTodo) *basic todo list Create/Remove*
+  * [Simple increment/decrement](./Basics/IncDec) *counter value application* ([live demo](https://ellie-app.com/bHPCgstkwa1/0))
+  * [Simple Todo List](./Basics/SimpleTodo) *basic todo list Create/Remove* ([live demo](https://ellie-app.com/bKTCBrgmha1/0))
 
 #### 2. CRUD
 
