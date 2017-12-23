@@ -78,4 +78,11 @@ timeToString time =
 
 view : Model -> Html Action
 view model =
-    h2 [] [ text <| timeToString model ]
+    let
+        message =
+            if model == 0 then
+                "Waiting while elm becoming better..."
+            else
+                timeToString model
+    in
+        h3 [] [ text message ]
