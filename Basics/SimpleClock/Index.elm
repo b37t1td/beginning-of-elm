@@ -3,6 +3,7 @@ module Index exposing (..)
 import Html exposing (..)
 import Time exposing (..)
 import Date exposing (..)
+import Task
 
 
 main =
@@ -24,7 +25,7 @@ type alias Model =
 
 init : ( Model, Cmd Action )
 init =
-    ( 0, Cmd.none )
+    ( 0, Task.perform TimeTick Time.now )
 
 
 
@@ -81,7 +82,7 @@ view model =
     let
         message =
             if model == 0 then
-                "Waiting while elm becoming better..."
+                "Initializing..."
             else
                 timeToString model
     in
