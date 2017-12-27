@@ -26,7 +26,7 @@ type alias Model =
 
 init : ( Model, Cmd Msg )
 init =
-    ( Model "cats" "waiting.gif", Cmd.none )
+    ( Model "" "", getRandomGif "cats" )
 
 
 
