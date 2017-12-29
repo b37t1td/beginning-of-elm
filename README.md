@@ -12,6 +12,7 @@
   * [Simple Todo List](./Basics/SimpleTodo) *basic todo list Create/Remove* ([live demo](https://ellie-app.com/bKTCBrgmha1/0))
   * [Simple Subscription](./Basics/SimpleClock) *realtime clock experiment* ([live demo](https://ellie-app.com/9g8ZDsvja1/0))
   * [Roll Dice](./Basics/RollDice) *improved version of the experiment from tutorial* ([live demo](https://ellie-app.com/sY7P8SSRPa1/0))
+  * [Simple Svg Clock](./Basics/SvgClock1) *svg cock from tutorial*
 
 #### 2. CRUD
 
