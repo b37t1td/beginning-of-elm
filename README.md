@@ -14,6 +14,7 @@
   * [Roll Dice](./Basics/RollDice) *improved version of the experiment from tutorial* ([live demo](https://ellie-app.com/sY7P8SSRPa1/0))
   * [Simple Svg Clock](./Basics/SvgClock1) *svg clock from tutorial*
   * [Http Simple gifcats](./Basics/SimpleHttp) *basic http request* ([live demo](https://ellie-app.com/pShjZ7RGPa1/3))
+  * [WebSocket example](./Basics/WebsocketsTut) *websockets example from tutorial*
 
 #### 2. CRUD
 
