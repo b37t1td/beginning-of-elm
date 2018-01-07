@@ -15,10 +15,12 @@
   * [Simple Svg Clock](./Basics/SvgClock1) *svg clock from tutorial*
   * [Http Simple gifcats](./Basics/SimpleHttp) *basic http request* ([live demo](https://ellie-app.com/pShjZ7RGPa1/3))
 
-#### 2. CRUD
+#### 2. Intermediate
+
+ * [Modules Usage](./Intermediate/ModulesUsage) *very basic example of usage modules inside of a project*
 
 
-#### 3. SPA
+#### 3. Advanced
 
 
 ### License
