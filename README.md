@@ -18,6 +18,7 @@
 #### 2. Intermediate
 
  * [Modules Usage](./Intermediate/ModulesUsage) *very basic example of usage modules inside of a project*
+ * [Tests Usage](./Intermediate/TestsUsage) *single test example*
 
 
 #### 3. Advanced
